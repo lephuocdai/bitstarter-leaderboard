@@ -77,7 +77,7 @@ instance:
 ```sh
 curl https://raw.github.com/startup-class/setup/master/setup.sh | bash
 exit # and then log in again
-git clone https://github.com/startup-class/bitstarter-leaderboard.git
+git clone https://github.com/lephuocdai/presentice-teaser.git
 cd bitstarter-leaderboard
 ./setup-ssjs.sh
 ```
